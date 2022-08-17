@@ -2,12 +2,12 @@
 
 # Project Name
 
-> Description the project.
+> Hello Microverse.
 
 
 ## Built With
 
-- Major languages
+- Major languages:html and css
 - Frameworks
 - Technologies used
 
