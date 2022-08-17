@@ -1,7 +1,8 @@
 body{
     background-color: antiquewhite;
 }
-h1{
+
+h1 {
     color: blue;
     font-size: large;
     font-weight: bold;
@@ -9,9 +10,7 @@ h1{
     padding-left: 10px;
     align-content: center;
 }
-p{
+p {
     color: black;
     float: left;
-    
-
 }
