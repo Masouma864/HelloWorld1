@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/masouma2020/HelloWorld1/issues"
   },
-  "homepage": "https://github.com/masouma2020/HelloWorld1#readme"
+  "homepage": "https://github.com/masouma2020/HelloWorld1#readme",
+  "devDependencies": {
+    "stylelint-config-standard": "^27.0.0"
+  },
+  "dependencies": {
+    "stylelint": "^14.10.0"
+  }
 }
