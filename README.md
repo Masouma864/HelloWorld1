@@ -2,7 +2,11 @@
 
 # Project Name
 
+<<<<<<< HEAD
 > Hello Microverse.
+=======
+> microverse hello world
+>>>>>>> 57c16a309d666d166b72ec6daa8c70c23d26a724
 
 
 ## Built With
