@@ -1,0 +1,17 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  color: blue;
+  font-size: large;
+  font-weight: bold;
+  float: left;
+  padding-left: 10px;
+  align-content: center;
+}
+
+p {
+  color: rgb(164 13 13);
+  float: left;
+}
