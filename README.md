@@ -3,21 +3,20 @@
 # Project Name
 
 <<<<<<< HEAD
-> Hello Microverse.
+> Hello1.
 =======
-> microverse hello world
->>>>>>> 57c16a309d666d166b72ec6daa8c70c23d26a724
+
 
 
 ## Built With
 
-- Major languages:html and css
-- Frameworks
-- Technologies used
+- Html
+- css
+
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]
 
 
 ## Getting Started
@@ -46,15 +45,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@masouma2020](https://github.com/githubhandle)
+- Twitter: [@Hasina389](https://twitter.com/twitterhandle)
+- LinkedIn: [Masouma M](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
